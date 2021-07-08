@@ -1,7 +1,7 @@
 ### Hi there 👋
 <GIGDC 2021 제작부문 중-고등부 출품작>
 - OVERCLOCKED MOMENT [제작기간 5주일 - 200시간] [2인 (개발 1, 아이디어 2)]
-https://www.gigdc.or.kr/game/list.php?ca_id=4010
+https://www.gigdc.or.kr/game/item.php?it_id=1625569044&ca_id=4010&findType=it_ex7&findWord=%ED%91%B8%EB%A5%B8&page=1&sort1=&sort2=
 
 <!--
 **wlsdnvy/wlsdnvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
