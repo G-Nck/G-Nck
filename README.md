@@ -3,6 +3,8 @@
 - OVERCLOCKED MOMENT [제작기간 5주일 - 200시간] [2인 (개발 1, 아이디어 2)]
 https://www.gigdc.or.kr/game/item.php?it_id=1625569044&ca_id=4010&findType=it_ex7&findWord=%ED%91%B8%EB%A5%B8&page=1&sort1=&sort2=
 
+<업데이트 예정>
+- OVERCLOCKED MOMENT 0.15
 <프로젝트 계획중>
 - Last Overclock
 
