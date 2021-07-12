@@ -5,7 +5,7 @@ https://www.gigdc.or.kr/game/item.php?it_id=1625569044&ca_id=4010&findType=it_ex
 
 <업데이트 예정>
 - OVERCLOCKED MOMENT 0.15
-<프로젝트 계획중>
+# <프로젝트 계획중>
 - Last Overclock
 
 <!--
