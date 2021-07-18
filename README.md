@@ -5,7 +5,7 @@
 
 <업데이트 예정>
 - OVERCLOCKED MOMENT 0.15
-# <프로젝트 계획중>
+# <프로젝트 제작중>
 - Last Overclock
 
 <!--
