@@ -1,25 +1,23 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=G Nck&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=G-Nck&fontAlign=70&rotate=13&fontAlignY=25&desc=Game%20Developer%20&descAlign=70.&descAlignY=44)
+GIGDC 2021 중고등부 제작부문 출품
 
-<GIGDC 2021 제작부문 중-고등부 출품작>
-- OVERCLOCKED MOMENT
-- https://www.gigdc.or.kr/game/item.php?it_id=1625569044&ca_id=4010&findType=it_ex7&findWord=%ED%91%B8%EB%A5%B8&page=1&sort1=&sort2=
+Skills: Unity, C#
 
-<업데이트 작업중>
-- OVERCLOCKED MOMENT 0.2b
-# <프로젝트 계획중>
-- Last Overclock
+- 🔭 I’m currently working on Unity Game Project 
+- 🌱 I’m currently learning Unity, Blender 
+- 📫 How to reach me: G-Nck#7522 (discord) 
 
-<!--
-**wlsdnvy/wlsdnvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wlsdnvy)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdnvy)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdnvy&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wlsdnvy)  
+
+![GitHub metrics](https://metrics.lecoq.io/wlsdnvy)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wlsdnvy)  
+
+![Profile views](https://gpvc.arturio.dev/wlsdnvy)  
