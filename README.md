@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=G Nck&fontAlign=70&rotate=13&fontAlignY=25&desc=Game%20Devloper%20&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=G Nck&fontAlign=70&rotate=13&fontAlignY=25&desc=Game%20Devloper&descAlign=70.&descAlignY=44)
 
 <GIGDC 2021 제작부문 중-고등부 출품작>
 - OVERCLOCKED MOMENT
