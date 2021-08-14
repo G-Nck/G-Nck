@@ -3,9 +3,9 @@
 - OVERCLOCKED MOMENT
 - https://www.gigdc.or.kr/game/item.php?it_id=1625569044&ca_id=4010&findType=it_ex7&findWord=%ED%91%B8%EB%A5%B8&page=1&sort1=&sort2=
 
-<업데이트 예정>
-- OVERCLOCKED MOMENT 0.15
-# <프로젝트 제작중>
+<업데이트 작업중>
+- OVERCLOCKED MOMENT 0.2b
+# <프로젝트 계획중>
 - Last Overclock
 
 <!--
