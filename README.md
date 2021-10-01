@@ -16,9 +16,9 @@ Skills: Unity, C#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdnvy&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wlsdnvy)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wlsdnvy) 
 
-![GitHub metrics](https://metrics.lecoq.io/wlsdnvy)  
+[GitHub metrics](https://metrics.lecoq.io/wlsdnvy)-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wlsdnvy)  
 
