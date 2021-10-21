@@ -6,7 +6,7 @@ GIGDC 2021 중고등부 제작부문 출품
 Skills: Unity, C#
 
 - 🔭 I’m currently working on Unity Game Project 
-- 🌱 I’m currently learning Unity, Blender 
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me: G-Nck#7522 (discord) 
 
 
