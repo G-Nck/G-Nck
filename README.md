@@ -10,16 +10,16 @@ Skills: Unity, C#
 - 📫 How to reach me: G-Nck#7522 (discord) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wlsdnvy)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/G-Nck)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdnvy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Nck)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdnvy&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Nck&show_icons=true&count_private=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wlsdnvy) 
 
 [GitHub metrics](https://metrics.lecoq.io/wlsdnvy)-->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wlsdnvy)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=G-Nck)  
 
-![Profile views](https://gpvc.arturio.dev/wlsdnvy)  
+![Profile views](https://gpvc.arturio.dev/G-Nck)  
