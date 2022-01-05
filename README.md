@@ -1,8 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=G-Nck&fontAlign=70&rotate=13&fontAlignY=25&desc=Unity%20Game%20Developer%20&descAlign=70.&descAlignY=44)
 
 
-GIGDC 2021 중고등부 제작부문 출품
-
 Skills: Unity, C#
 
 - 🔭 I’m currently working on Unity Game Project 
